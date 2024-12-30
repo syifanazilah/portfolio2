@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+import preline from "preline/plugin"; // Menggunakan import
+
 export default {
   darkMode: "class",
   content: [
@@ -9,6 +11,5 @@ export default {
   theme: {
     extend: {},
   },
-  // eslint-disable-next-line no-undef
-  plugins: [require("preline/plugin")],
+  plugins: [preline], // Menggunakan plugin yang diimpor
 };
