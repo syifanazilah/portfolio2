@@ -41,14 +41,14 @@ function Contact() {
           <FaSquareXTwitter className="self-center text-lg text-[#C96868] dark:text-[#E78F81]" />
           <span className="self-center">Follow on X</span>
         </a> */}
-        
-        {/* =========== GITHUB =========== */}
+
+        {/* =========== LINKEDIN =========== */}
         <a
-          href={user_info.socials.github}
+          href={user_info.socials.linkedin}
           className="flex gap-4 text-zinc-600 dark:text-zinc-300 hover:dark:text-zinc-300 hover:text-zinc-700 transition-all duration-300 mt-4 text-sm font-semibold"
         >
-          <SiGithub className="self-center text-lg text-[#C96868] dark:text-[#E78F81]" />
-          <span className="self-center">Follow on Github</span>
+          <FaLinkedin className="self-center text-lg text-[#C96868] dark:text-[#E78F81]" />
+          <span className="self-center">Connect on Linkedin!</span>
         </a>
 
         {/* =========== INSTAGRAM =========== */}
@@ -57,17 +57,17 @@ function Contact() {
           className="flex gap-4 text-zinc-600 dark:text-zinc-300 hover:dark:text-zinc-300 hover:text-zinc-700 transition-all duration-300 mt-4 text-sm font-semibold"
         >
           <FaInstagram className="self-center text-lg text-[#C96868] dark:text-[#E78F81]" />
-          <span className="self-center">Follow on Instagram</span>
+          <span className="self-center">Get to know me more on Instagram!</span>
         </a>
-
-        {/* =========== LINKEDIN =========== */}
-        {/* <a
-          href={user_info.socials.linkedin}
+        
+        {/* =========== GITHUB =========== */}
+        <a
+          href={user_info.socials.github}
           className="flex gap-4 text-zinc-600 dark:text-zinc-300 hover:dark:text-zinc-300 hover:text-zinc-700 transition-all duration-300 mt-4 text-sm font-semibold"
         >
-          <FaLinkedin className="self-center text-lg text-[#C96868] dark:text-[#E78F81]" />
-          <span className="self-center">Follow on Linkedin</span>
-        </a> */}
+          <SiGithub className="self-center text-lg text-[#C96868] dark:text-[#E78F81]" />
+          <span className="self-center">Let's meet on Github!</span>
+        </a>
       </div>
 
       <hr className="mt-6 w-72 border dark:border-zinc-800" />

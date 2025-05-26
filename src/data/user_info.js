@@ -3,7 +3,7 @@ const info = {
     main: {
         role: "Junior Web Developer",
         name: "Syifa Nazilah Putri",
-        description: "Junior Web Developer with a keen eye for detail and a passion for building user-friendly web applications. Skilled in both frontend and backend development, with experience in various team projects for competitions and organizational needs. Proficient in HTML, CSS, and backend frameworks like Laravel and Django. A strong team player who adapts quickly to new environments, with excellent communication skills.",
+        description: "Junior Web Developer with a keen eye for detail and a passion for building user-friendly web applications. Skilled in both frontend and backend development, with experience in various team projects for competitions and organizational needs. Proficient in TailwindCSS and backend frameworks like Laravel and Django. A strong team player who adapts quickly to new environments, with excellent communication skills.",
         photo: "../syifanp1.png",
         email: "syifanazilahp@gmail.com",
     },
@@ -12,7 +12,7 @@ const info = {
     socials: {
         // twitter: "https://twitter.com/",
 		github: "https://github.com/syifanazilah",
-		// linkedin: "https://linkedin.com/in/",
+		linkedin: "www.linkedin.com/in/syifa-nazilah",
 		instagram: "https://www.instagram.com/syifnzp/",
 		// facebook: "https://facebook.com/",
     },
@@ -20,9 +20,16 @@ const info = {
     // ============ PROJECTS ============
     projects: [
         {
+			title: "Geoportal LAUT BERKAH",
+			description: "Multi-team project with SMK interns, MSIB students, and company mentors. Focused on building the CMS backend, implementing robust CRUD functionality and an intuitive admin panel to manage geospatial data efficiently. Integrated with frontend teams using ThreeJS and ReactJS.",
+            technologies: "ThreeJS, ReactJS, TailwindCSS, Django",
+			// github: "",
+            link: "https://geoportal-lautberkah.kalteng.go.id"
+		},
+        {
 			title: "Inditech",
 			description: "Team project by 6 people, as a fulfillment of pre-internship requirements at Indi Technology company.",
-            technologies: "ThreeJS, ReactJS, TilwindCSS",
+            technologies: "ThreeJS, ReactJS, TailwindCSS",
 			// github: "",
             link: "https://web.indi.tech/"
 		},
@@ -50,7 +57,7 @@ const info = {
         {
 			title: "MyBlog",
 			description: "Personal project on developing Python language learning with Django framework, implementing rich text editor integration with ckeditor and real-time chat implementation with tawk.",
-            technologies: "Django, TilwindCSS",
+            technologies: "Django, TailwindCSS",
 			github: "https://github.com/syifanazilah/myblog",
             // link: "https://"
 		},
@@ -68,6 +75,17 @@ const info = {
 
     // ============ EXPERIENCE ============
     experience: [
+        {
+            position: "Front-End Web Developer",
+            company: "INDI Technology (Internship)",
+            duration: "January 2025 - March 2025 (3 Months)",
+            image: "indi.png",
+            descriptions: [
+                "Sliced Figma designs into responsive web interfaces, ensuring compatibility across mobile, tablet, and desktop devices using Laravel Blade and Tailwind CSS.",
+                "Collaborated with the development team via GitHub, implementing semantic commit messages and efficient branching strategies for streamlined project workflows.",
+                "Focused on delivering clean, user-friendly interfaces with optimized performance and adherence to modern web development best practices.",
+            ]
+        },
         {
             position: "Full-Stack Web Developer",
             company: "INDI Technology (Internship)",

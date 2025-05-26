@@ -22,7 +22,7 @@ function Homepage() {
 
   return (
     <div className="bg-zinc-100 dark:bg-[#050c16]">
-      <div className="xl:w-[1200px] md:mx-auto h-full border-x border-zinc-100 dark:border-zinc-800 bg-white dark:bg-[#0B192C]">
+      <div className="mx-auto h-full border-x border-zinc-100 dark:border-zinc-800 bg-white dark:bg-[#0B192C]">
         <ToggleTheme switchTheme={switchTheme} />
 
         <Hero />
