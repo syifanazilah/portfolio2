@@ -12,7 +12,7 @@ const info = {
     socials: {
         // twitter: "https://twitter.com/",
 		github: "https://github.com/syifanazilah",
-		linkedin: "www.linkedin.com/in/syifa-nazilah",
+		linkedin: "https://linkedin.com/in/syifa-nazilah",
 		instagram: "https://www.instagram.com/syifnzp/",
 		// facebook: "https://facebook.com/",
     },
