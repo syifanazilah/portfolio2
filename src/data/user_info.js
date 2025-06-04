@@ -145,6 +145,16 @@ const info = {
     // ============ CERTIFICATES ============
     certificates: [
         {
+            title: "Poetry Anthology: Bayangmu yang Hilang di Arus Kenangan (Jilid 4)",
+            description: "National-level poetry anthology published as part of the National Literary Olympiad (OSN 2.3).",
+            link: "https://drive.google.com/file/d/1BiCtHfyAE0pPOub85tAFSbcE6eIXGJCm/view",
+        },
+        {
+            title: "Poetry Anthology: Nyala di Tengah Senja (Jilid 6)",
+            description: "National-level poetry anthology published as part of the National Literary Olympiad (OSN 2.2).",
+            link: "https://drive.google.com/file/d/1MXZcu46zKsuBxCUdXOwDxO2EhZAIDqSq/view",
+        },
+        {
             title: "Cloud Computing Club Competition (C4)",
             description: "Organized by Sagasitas Tech in collaboration with Amazon Web Services (AWS) Indonesia, held in February 2024.",
             link: "https://drive.google.com/file/d/1B3OofVcCLKCqU8PKOeGGEPM1ydbhzGJ0/view",
