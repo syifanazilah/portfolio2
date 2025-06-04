@@ -30,16 +30,18 @@ function Hero() {
 
             <div className="flex gap-2 mt-6">
               <a
-                href="#projects"
+                href="#writing-projects"
                 className="px-6 py-3 border border-black hover:bg-[#C96868] dark:hover:bg-[#E78F81] dark:hover:text-[#0B192C] hover:text-white hover:border-[#C96868] dark:border-white font-medium transition-all duration-300"
               >
-                Projects
+                I Love Writing Too!
               </a>
               <a
                 href="#contact"
                 className="px-6 py-3 hover:text-[#C96868] dark:hover:text-[#E78F81] transition-all duration-300 flex gap-3 hover:gap-4"
               >
-                <span className="self-center font-medium">Contact</span>
+                <span className="self-center font-medium">
+                  Let's Connect!
+                </span>
                 <IoIosArrowForward className="self-center" />
               </a>
             </div>

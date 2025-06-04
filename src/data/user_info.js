@@ -63,6 +63,38 @@ const info = {
 		},
     ],
 
+    // ============ WRITING PROJECTS ============
+    writingProjects: [
+        {
+            title: "Personal Blog",
+            description: "A cozyy corner where I share my thoughts, reflections, and insights on various topics. It's a space for me to connect with others through writing, cuz all written from my heart.",
+            platform: "Blogspot",
+            link: "https://syifanazilah.blogspot.com/",
+            image: "blog.png"
+        },
+        {
+            title: "Social Media Content",
+            description: "Thoughtful posts and engaging content on my Instagram, where I share meaningful messages, thoughts, and creative endeavors.",
+            platform: "Instagram",
+            link: "https://www.instagram.com/syifnzp/",
+            image: "insta.png"
+        },
+        // {
+        //     title: "Puisi: Doa Dalam Hujan",
+        //     description: "Terbit dalam buku antologi 'Hujan di Ujung Doa', OSN 2024.",
+        //     platform: "Antologi Puisi",
+        //     link: "https://drive.google.com/your-link1",
+        //     image: "/images/puisi-hujan.jpg"
+        // },
+        // {
+        //     title: "Puisi: Cahaya dari Timur",
+        //     description: "Terbit dalam buku antologi 'Senandika Timur', OSN 2024.",
+        //     platform: "Antologi Puisi",
+        //     link: "https://drive.google.com/your-link2",
+        //     image: "/images/puisi-timur.jpg"
+        // }
+    ],
+
     // ============ EDUCATION ============
     education: [
         {
