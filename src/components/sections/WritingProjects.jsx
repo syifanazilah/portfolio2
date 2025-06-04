@@ -34,8 +34,8 @@ function WritingProjects() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <CiLink className="text-2xl self-center" />
-                <span className="text-xs self-center">
+                <CiLink className="text-2xl self-center animate-bounce" />
+                <span className="text-xs self-center animate-pulse">
                   Get Know More
                 </span>
               </a>

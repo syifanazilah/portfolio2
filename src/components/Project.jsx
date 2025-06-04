@@ -26,14 +26,14 @@ function Project({ title, description, technologies, link, github }) {
       <div className="flex gap-6 text-zinc-600 dark:text-zinc-300 font-medium">
         {/* =========== PROJECT LINK =========== */}
         <a href={link} className="flex gap-2 mt-4 hover:text-[#C96868] hover:dark:text-[#E78F81] cursor-pointer transition-all duration-300">
-          <CiLink className="text-2xl self-center" />
+          <CiLink className="text-2xl self-center animate-pulse" />
           <span className="text-xs self-center">
             View Project
           </span>
         </a>
         {/* =========== PROJECT GITHUB =========== */}
         <a href={github} className="flex gap-2 mt-4 hover:text-[#C96868] hover:dark:text-[#E78F81] cursor-pointer transition-all duration-300">
-          <CiLink className="text-2xl self-center" />
+          <CiLink className="text-2xl self-center animate-pulse" />
           <span className="text-xs self-center">
             View Github
           </span>
