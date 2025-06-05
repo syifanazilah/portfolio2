@@ -79,13 +79,13 @@ const info = {
             link: "https://www.instagram.com/syifnzp/",
             image: "insta.png"
         },
-        // {
-        //     title: "Puisi: Doa Dalam Hujan",
-        //     description: "Terbit dalam buku antologi 'Hujan di Ujung Doa', OSN 2024.",
-        //     platform: "Antologi Puisi",
-        //     link: "https://drive.google.com/your-link1",
-        //     image: "/images/puisi-hujan.jpg"
-        // },
+        {
+            title: "Sekeping Piringan Hitam",
+            description: "Published in the poetry anthology 'Bayangmu yang Hilang di Arus Kenangan (Jilid 4)', National Literary Olympiad (OSN 2.3).",
+            platform: "Poem",
+            link: "https://drive.google.com/file/d/14xHlaBl9nk61pbQFu4NoOOQscswOIoyw/view",
+            image: "poem1.jpeg"
+        },
         // {
         //     title: "Puisi: Cahaya dari Timur",
         //     description: "Terbit dalam buku antologi 'Senandika Timur', OSN 2024.",
