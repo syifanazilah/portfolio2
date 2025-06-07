@@ -1,10 +1,10 @@
 const info = {
     // ============ MAIN DETAILS ============
     main: {
-        role: "Junior Web Developer",
+        role: "Junior Web Developer & Creative Writer",
         name: "Syifa Nazilah Putri",
-        description: "Junior Web Developer with a keen eye for detail and a passion for building user-friendly web applications. Skilled in both frontend and backend development, with experience in various team projects for competitions and organizational needs. Proficient in TailwindCSS and backend frameworks like Laravel and Django. A strong team player who adapts quickly to new environments, with excellent communication skills.",
-        photo: "../syifanp1.png",
+        description: "Hola! I'm Syifa, a junior developer with a big love for both design systems and beautiful sentences. With solid experience in Laravel, TailwindCSS, and Django, I specialize in building responsive websites with clean UI. Tech-savvy, creative, and always curious to learn more. Let’s create something impactful, both in code and in words!",
+        photo: "../syifanp32.png",
         email: "syifanazilahp@gmail.com",
     },
 
@@ -80,19 +80,19 @@ const info = {
             image: "insta.png"
         },
         {
+            title: "Kertasku",
+            description: "Published in the poetry anthology 'Nyala di Tengah Senja (Jilid 6)', National Literary Olympiad (OSN 2.2).",
+            platform: "Poem",
+            link: "https://drive.google.com/file/d/1aCCLDm7FSxo_088MWDPS3JTEIIsEDy5Q/view",
+            image: "poem2.jpeg"
+        },
+        {
             title: "Sekeping Piringan Hitam",
             description: "Published in the poetry anthology 'Bayangmu yang Hilang di Arus Kenangan (Jilid 4)', National Literary Olympiad (OSN 2.3).",
             platform: "Poem",
             link: "https://drive.google.com/file/d/14xHlaBl9nk61pbQFu4NoOOQscswOIoyw/view",
             image: "poem1.jpeg"
         },
-        // {
-        //     title: "Puisi: Cahaya dari Timur",
-        //     description: "Terbit dalam buku antologi 'Senandika Timur', OSN 2024.",
-        //     platform: "Antologi Puisi",
-        //     link: "https://drive.google.com/your-link2",
-        //     image: "/images/puisi-timur.jpg"
-        // }
     ],
 
     // ============ EDUCATION ============
